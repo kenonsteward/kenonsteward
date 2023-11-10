@@ -7,6 +7,8 @@
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a SOC / HoneyNet](https://github.com/kyiez/Azure-SOC)
+
+   - [Creating a SOC / HoneyNet](https://github.com/kenonsteward/Azure-SOC)
  
   - [Vulnerability Management Project](https://github.com/kyiez/openVAS-Vuln)
 <!--
