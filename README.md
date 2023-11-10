@@ -14,7 +14,7 @@
  
   - [Vulnerability Management Project](https://github.com/kenonsteward/openVAS-Vuln)
  
-  - - [Creating a SOC / HoneyNet](https://github.com/kd/Azure-SOC)
+  - [Creating a SOC / HoneyNet](https://github.com/kd/Azure-SOC)
 <!--
 <h1>Hi, I'm Kenon! <br/> <a href="https://www.linkedin.com/in/joshmadakor/">IT Professional</a>, Aspiring Cybersecurity Professional</a></h1>
 <h2>🤳🏾 Connect with me:</h2>
