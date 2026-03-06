@@ -1,7 +1,7 @@
 <!--
 ### Hi there 👋
 -->
-<h1>Hi, I'm Kenon! 👋 <br/> <a>IT Professional</a>, and Aspiring DevOpsCloud Engineer</a></h1>
+<h1>Hi, I'm Kenon! 👋 <br/> <a>IT Professional</a>, and Aspiring DevOps/Cloud Engineer</a></h1>
 <!-->
 Cybersecurity Professional
 -->
