@@ -10,9 +10,6 @@
   - [Creating a SOC / HoneyNet](https://github.com/kenonsteward/Azure-SOC)
  
   - [Vulnerability Management Project](https://github.com/kenonsteward/openVAS-Vuln)
-1. test
-1. test 2
-1. test 3
 <!--
   - [Creating a SOC / HoneyNet](https://github.com/kyiez/Azure-SOC)
 
