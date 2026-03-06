@@ -1,8 +1,10 @@
 <!--
 ### Hi there 👋
 -->
-<h1>Hi, I'm Kenon! 👋 <br/> <a>IT Professional</a>, Aspiring Cybersecurity Professional</a></h1>
-
+<h1>Hi, I'm Kenon! 👋 <br/> <a>IT Professional</a>, and Aspiring DevOpsCloud Engr</a></h1>
+<!-->
+Cybersecurity Professional
+-->
 <h2>💻 Cybersecurity Projects:</h2>
 
 - <b>Azure / Cloud Projects</b>
